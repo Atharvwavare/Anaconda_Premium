@@ -1,0 +1,10 @@
+2026-10-19 14:54:18,788)| INFO | program started
+2026-10-19 14:54:18,790)| WARNING | Running low on time
+2026-10-19 14:54:18,790)| ERROR | code is error
+2026-10-19 14:54:18,790)| DEBUG | code need to debug
+2026-10-19 14:54:18,791)| CRITICAL | code is critical
+2026-10-19 15:02:42,725)| INFO | program started
+2026-10-19 15:02:42,726)| WARNING | Running low on time
+2026-10-19 15:02:42,726)| ERROR | code is error
+2026-10-19 15:02:42,726)| DEBUG | code need to debug
+2026-10-19 15:02:42,726)| CRITICAL | code is critical
